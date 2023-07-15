@@ -1,0 +1,40 @@
+h1 {
+  background-color: rgb(134, 221, 239);
+}
+
+.list {
+  background-color: rgb(242, 243, 245);
+}
+
+body {
+  background-color: rgb(242, 243, 244);
+}
+
+.left {
+  width: 30%;
+  float: left;
+
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  display: flex;
+}
+
+.right {
+  float: left;
+
+  color: rgb(3, 2, 2);
+
+  display: flex;
+}
+
+img {
+  max-width: 70%;
+  height: auto;
+  padding: 10%;
+}
+
+body {
+  font-family: DejaVu Sans Mono;
+  font-weight: 500;
+}
+
